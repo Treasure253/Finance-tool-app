@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://Treasure253.github.io/Finance-tool-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
